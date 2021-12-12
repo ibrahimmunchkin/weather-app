@@ -1,0 +1,20 @@
+
+body{
+    background:black;
+}
+.start{
+    color: white;
+    position:absolute;
+}
+.name{
+    font-size: medium;
+    font-family:cursive;
+    font-weight: 700;
+    letter-spacing: 3px;
+}
+p{
+font-family: monospace;
+font-size: small;
+font-weight: lighter;
+letter-spacing: 3px;
+}
